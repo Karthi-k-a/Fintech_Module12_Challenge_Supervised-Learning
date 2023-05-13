@@ -1,4 +1,4 @@
-# Karthi-k-a-Fintech_Module12_Challenge_Supervised-Learning
+# Fintech Module12 Challenge - Supervised Learning
 
 ## Overview of the Analysis
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
