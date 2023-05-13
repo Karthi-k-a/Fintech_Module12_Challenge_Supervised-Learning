@@ -1,6 +1,6 @@
-# Fintech Module12 Challenge - Supervised Learning
-
-## Overview of the Analysis
+# Fintech Module 12 Challenge - Supervised Learning
+## Credit Risk Classification
+### Overview of the Analysis
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 - Explain the purpose of the analysis.
 - Explain what financial information the data was on, and what you needed to predict.
@@ -8,7 +8,7 @@ In this section, describe the analysis you completed for the machine learning mo
 - Describe the stages of the machine learning process you went through as part of this analysis.
 - Briefly touch on any methods you used (e.g., LogisticRegression, or any resampling method).
 
-## Results
+### Results
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 - Machine Learning Model 1:
@@ -16,7 +16,7 @@ Description of Model 1 Accuracy, Precision, and Recall scores.
 - Machine Learning Model 2:
 Description of Model 2 Accuracy, Precision, and Recall scores.
 
-## Summary
+### Summary
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
 
 - Which one seems to perform best? How do you know it performs best?
