@@ -1,5 +1,6 @@
 # Fintech Module 12 Challenge - Supervised Learning
 ## Credit Risk Classification
+![](https://github.com/Karthi-k-a/Karthi-k-a-Fintech_Module12_Challenge_Supervised-Learning/blob/main/Images/12-homework-image.png)
 ### Overview of the Analysis
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 - Explain the purpose of the analysis.
