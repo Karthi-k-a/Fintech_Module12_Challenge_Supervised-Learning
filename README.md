@@ -23,3 +23,9 @@ Summarize the results of the machine learning models, and include a recommendati
 - Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the 1's, or predict the 0's? )
 
 If you do not recommend any of the models, please justify your reasoning.
+
+A lending company might want a model that requires a higher recall because:
+
+healthy loans being identified as a non-healthy loan might be more costly for a lending company since it might cause the loss of customers but it would not be as big of a deal since they have not provided any funds to the customer indicating no loss in terms of money
+
+non-healthy loans being identified as a healthy loan might surely be more costly for a lending company due to the loss of funds being provided by the lender
