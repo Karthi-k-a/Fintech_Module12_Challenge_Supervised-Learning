@@ -2,20 +2,18 @@
 ## Credit Risk Classification
 ![](https://github.com/Karthi-k-a/Karthi-k-a-Fintech_Module12_Challenge_Supervised-Learning/blob/main/Images/12-homework-image.png)
 ### Overview of the Analysis
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
-- Explain the purpose of the analysis.
-- Explain what financial information the data was on, and what you needed to predict.
-- Provide basic information about the variables you were trying to predict (e.g., value_counts).
-- Describe the stages of the machine learning process you went through as part of this analysis.
-- Briefly touch on any methods you used (e.g., LogisticRegression, or any resampling method).
+It is very important for lending companies to thoroughly check the creditworthiness of customers before extending credit to protect their businesses from late payment or nonpayment. This project aims at analysing a dataset of historical lending activity from a peer-to-peer lending services company to build a machine learning model that can predict the creditworthiness of borrowers. The following steps were performed in [credit_risk_resampling](https://github.com/Karthi-k-a/Karthi-k-a-Fintech_Module12_Challenge_Supervised-Learning/blob/main/credit_risk_resampling.ipynb) file to build a LogisticRegression model with various sampling methods- 
+- Split the Data into Training and Testing Sets
+- Create a Logistic Regression Model with the Original Data
+- Predict a Logistic Regression Model with Resampled Training Data
+- Write a Credit Risk Analysis Report
 
 ### Results
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
+- Machine Learning Model 1: Logistic Regression Model with the Original Data
 
-- Machine Learning Model 1:
-Description of Model 1 Accuracy, Precision, and Recall scores.
-- Machine Learning Model 2:
-Description of Model 2 Accuracy, Precision, and Recall scores.
+- Machine Learning Model 2: Logistic Regression Model with Resampled Training Data
+
+Description of Model 1 and 2 Accuracy, Precision, and Recall scores.
 
 ### Summary
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
