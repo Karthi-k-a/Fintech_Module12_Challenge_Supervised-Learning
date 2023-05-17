@@ -9,7 +9,12 @@ It is very important for lending companies to thoroughly check the creditworthin
 - Write a Credit Risk Analysis Report
 
 ### Results
-- Machine Learning Model 1: Logistic Regression Model with the Original Data
+- **Machine Learning Model 1: Logistic Regression Model with the Original Data**<br>
+This model predicts the creditworthiness of borrowers using the original data.<br> 
+<br>
+![](https://github.com/Karthi-k-a/Karthi-k-a-Fintech_Module12_Challenge_Supervised-Learning/blob/main/Images/1.png)<br>
+<br>
+![](https://github.com/Karthi-k-a/Karthi-k-a-Fintech_Module12_Challenge_Supervised-Learning/blob/main/Images/2.png)
 
 - Machine Learning Model 2: Logistic Regression Model with Resampled Training Data
 
